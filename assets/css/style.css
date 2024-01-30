@@ -1,0 +1,58 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* head div style */
+.head {
+  text-transform: uppercase;
+  color: white;
+}
+
+/* watch div style */
+.watch {
+  padding: 20px;
+  color: white;
+}
+
+/* watch button style */
+.watch button {
+  border: none;
+  color: white;
+}
+
+/* control button style */
+@media screen and (min-width: 450px) {
+  .control button {
+    padding: 5px 30px;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+    border: 0.1px solid white;
+  }
+}
+@media screen and (max-width: 450px) {
+  .control button {
+    padding: 5px 20px;
+    font-size: 16px !important;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+    border: 0.1px solid white;
+  }
+}
+
+/* control button hover effect  */
+.control button:hover {
+  background-color: white !important;
+  color: black;
+}
+
+/* style span tag */
+span {
+  font-weight: 600;
+  font-size: 35px;
+}
