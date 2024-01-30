@@ -14,7 +14,7 @@ This repository contains a basic stopwatch web application built with raw JavaSc
 ## Clone the repository:
 
 ```javascript
-git clone https://github.com/YOUR_USERNAME/simple-stopwatch.git
+git clone https://github.com/md-rejoyan-islam/Simple-Stopwatch-in-JavaScript.git
 ```
 
 ## Usage
@@ -25,4 +25,4 @@ git clone https://github.com/YOUR_USERNAME/simple-stopwatch.git
 
 ## Preview
 
-[Click to Preview]()
+[Click to Preview](https://md-rejoyan-islam.github.io/Simple-Stopwatch-in-JavaScript)
